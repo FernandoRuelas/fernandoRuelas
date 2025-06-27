@@ -41,7 +41,8 @@
 
 ## 🌍 Languages  
 -  **Spanish** – Native  
--  **English** – Basic  
+-  **English** – Intermediate | Currently studying
+  
 
 ---
 
