@@ -13,7 +13,7 @@
 - 💪 Enjoy solving challenges and working in dynamic teams  
 - ⚡ Quick learner with a self-driven mindset  
 - 📚 Always exploring new technologies and improving my skills  
-- 📆 **Experience:** 2+ years  
+- 📆 **Experience:** 3+ years  
 - 🗺️ Experienced in working with **Google Maps APIs, Highcharts, and various libraries**  
 
 ---
